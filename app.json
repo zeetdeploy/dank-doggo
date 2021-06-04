@@ -27,7 +27,7 @@
             "description": "Your REDDIT username",
             "required": true
     },
-    "RPASS" {
+    "RPASS": {
            "description": "Your REDDIT password",
            "required": true
     }
