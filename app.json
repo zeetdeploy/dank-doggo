@@ -1,0 +1,35 @@
+{
+  "name": "Dank-Doggo",
+  "description": "Telegram bot to post subreddits to Telegram Channel",
+  "repository": "https://github.com/zeetdeploy/dank-doggo",
+  "env": {
+    "TOKEN": {
+            "description": "Bot Token",
+            "required": true
+    },
+    "SUB": {
+            "description": "Subreddit you wanna post from",
+            "required": true
+    },
+    "CHANNEL": {
+            "description": "Channel ID you wanna post in",
+            "required": true
+    },
+    "CLIENT_ID": {
+            "description": "Your REDDIT client ID",
+            "required": true
+    },
+    "CLIENT_SECRET": {
+            "description": "Your REDDIT client Secret",
+            "required": true
+    },
+    "RUSERNAME": {
+            "description": "Your REDDIT username",
+            "required": true
+    },
+    "RPASS" {
+           "description": "Your REDDIT password",
+           "required": true
+  }
+  }
+}
