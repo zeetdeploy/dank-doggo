@@ -30,6 +30,6 @@
     "RPASS" {
            "description": "Your REDDIT password",
            "required": true
-  },
+    }
   }
 }
